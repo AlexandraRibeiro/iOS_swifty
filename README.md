@@ -11,3 +11,10 @@ Objectives
 - Swift
 - Frameworks Apple
 - API 42 
+
+
+Skills
+- Adaptation & creativity
+- DB & Data
+- Technology integration
+- Object-oriented programming 
